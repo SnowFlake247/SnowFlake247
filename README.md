@@ -5,7 +5,7 @@
 
 ▸ Adobe skills ➟ **PS // XD**
 
-▸ Curently learning **JS // P5.js**
+▸ Curently learning ➟ **JS // P5.js**
 
 ▸ Contact on Discord ➟ **SnowFlake#4358**
 
