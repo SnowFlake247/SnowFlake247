@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Winter</h1>
 <h3 align="center">A passionate developer/designer from Belguim</h3>
 
-- ▸ Adobe skills ➟ **PS // XD**
+▸ HTML // CSS
 
-- ▸ Curently learning **JS // P5.js**
+▸ Adobe skills ➟ **PS // XD**
 
-- ▸ Contact on Discord ➟ **SnowFlake#4358**
+▸ Curently learning **JS // P5.js**
+
+▸ Contact on Discord ➟ **SnowFlake#4358**
 
 <p align="left">
 </p>
