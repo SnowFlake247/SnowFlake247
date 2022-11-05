@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Winter</h1>
+<h1 align="center">Hi, I'm SnowFl4ke</h1>
 <h3 align="center">A passionate developer/designer from Belguim</h3>
 
 ▸ HTML // CSS
